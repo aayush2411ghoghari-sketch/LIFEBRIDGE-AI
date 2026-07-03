@@ -19,6 +19,9 @@
     </a>
     <img src="https://img.shields.io/github/last-commit/aayush2411ghoghari-sketch/LIFEBRIDGE-AI?style=flat-square" alt="Last Commit" />
     <img src="https://img.shields.io/github/repo-size/aayush2411ghoghari-sketch/LIFEBRIDGE-AI?style=flat-square" alt="Repo Size" />
+    <a href="https://aayush2411ghoghari-sketch.github.io/LIFEBRIDGE-AI/">
+      <img src="https://img.shields.io/badge/%F0%9F%8C%90_Live_Demo-Interactive_Preview-blueviolet?style=flat-square" alt="Live Demo" />
+    </a>
   </p>
 
   <p>
