@@ -1,0 +1,13 @@
+.card {
+  background: var(--card-bg);
+  border-radius: 0.8rem;
+  padding: 0.8rem;
+  backdrop-filter: blur(6px);
+  margin: 0.5rem 0;
+}
+
+.alerts {
+  text-align: center;
+  font-size: 1.1rem;
+  color: var(--accent);
+}

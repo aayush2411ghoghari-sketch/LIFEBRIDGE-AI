@@ -1,0 +1,15 @@
+{
+  "header.title": "ifeBridge Emergency Response",
+  "header.subtitle": "Your guide during floods, earthquakes, cyclones & accidents",
+  "section.shelters": "Shelters",
+  "section.safeRoads": "Safe Roads",
+  "section.medical": "Medical Assistance",
+  "section.supplies": "Emergency Supplies",
+  "section.alerts": "Alerts",
+  "alerts.none": "🔔 No active alerts. Real‑time alerts will appear here.",
+  "supply.water": "Water (2L per person)",
+  "supply.food": "Non‑perishable food",
+  "supply.firstAid": "First‑aid kit",
+  "supply.flashlight": "Flashlight + batteries",
+  "supply.radio": "Battery powered radio"
+}

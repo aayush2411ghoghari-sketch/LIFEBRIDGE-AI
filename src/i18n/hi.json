@@ -1,0 +1,15 @@
+{
+  "header.title": "इफब्रिज आपातकालीन प्रतिक्रिया",
+  "header.subtitle": "बाढ़, भूकंप, चक्रवात और दुर्घटनाओं के दौरान आपका मार्गदर्शक",
+  "section.shelters": "शरणस्थल",
+  "section.safeRoads": "सुरक्षित सड़कों",
+  "section.medical": "चिकित्सा सहायता",
+  "section.supplies": "आपातकालीन सामान",
+  "section.alerts": "अलर्ट्स",
+  "alerts.none": "🔔 कोई सक्रिय अलर्ट नहीं। वास्तविक‑समय अलर्ट यहाँ दिखेंगे।",
+  "supply.water": "पानी (व्यक्ति प्रति 2 लीटर्स)",
+  "supply.food": "नाश न होने वाला भोजन",
+  "supply.firstAid": "फर्स्ट‑एड किट",
+  "supply.flashlight": "फ़्लैशलाइट + बैटरियां",
+  "supply.radio": "बैटरी चलित रेडियो"
+}

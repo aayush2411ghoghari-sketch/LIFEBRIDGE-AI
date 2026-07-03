@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Community Hall",
+    "address": "123 River Road, Cityville",
+    "capacity": 200
+  },
+  {
+    "id": 2,
+    "name": "School Gymnasium",
+    "address": "456 Hill St, Townsville",
+    "capacity": 150
+  },
+  {
+    "id": 3,
+    "name": "Town Center Auditorium",
+    "address": "789 Market Ave, Villageton",
+    "capacity": 300
+  }
+]
