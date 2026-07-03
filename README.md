@@ -89,6 +89,13 @@ The LifeBridge AI dashboard provides an at-a-glance view of all critical emergen
 └──────────────────────────┴──────────────────────────────┘
 ```
 
+### Live Demo Interaction Video
+
+Here is a captured video walkthrough showing the responsive card layout, interactive hover states, and live checklist state updates in action:
+
+<img src="docs/images/demo_interaction.webp" alt="LifeBridge AI Live Interactive Walkthrough" width="100%" />
+
+
 ### User Interaction Workflow
 
 ```mermaid
